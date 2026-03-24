@@ -38,21 +38,3 @@
 </div>
 
 ###
-
-<h1 align="left"></h1>
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/rafaelbazzolini" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://facebook.com/rafaelbazzolini" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://instagram.com/rafaelbazzolini" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
