@@ -33,6 +33,10 @@
   <img src="https://streak-stats.demolab.com?user=rafaelbazzolini&locale=pt-br&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-![snake gif](https://github.com/rafaelbazzolini/rafaelbazzolini/blob/output/github-contribution-grid-snake.svg)
-
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelbazzolini/rafaelbazzolini/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelbazzolini/rafaelbazzolini/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaelbazzolini/rafaelbazzolini/output/github-contribution-grid-snake.svg">
+</picture>
