@@ -59,8 +59,6 @@ Aprofundando conhecimentos em **Laravel**, **arquitetura SaaS** e **inteligênci
 
 ---
 
-<details>
-  <summary>Fora do editor, a cobrinha continua trabalhando 🐍</summary>
-  <br />
-  <img src="https://raw.githubusercontent.com/rafaelbazzolini/rafaelbazzolini/output/snake.svg" width="700" alt="Animação da cobrinha no gráfico de contribuições" />
-</details>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafaelbazzolini/rafaelbazzolini/output/snake.svg" width="100%" alt="Animação da cobrinha no gráfico de contribuições" />
+</p>
