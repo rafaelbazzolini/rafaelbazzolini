@@ -1,44 +1,66 @@
-<h1 align="center">Rafael Bueno Azzolini</h1>
-
-<p align="center"><strong>Desenvolvedor PHP · Full Stack</strong></p>
-
 <p align="center">
-  Aplicações web, sistemas corporativos e integrações.<br />
-  Do banco de dados à interface, com experiência em desenvolvimento desde 2014.
+  <img src="./assets/profile-hero.svg" width="100%" alt="Rafael Azzolini — Desenvolvedor PHP / Full Stack. Desenvolvimento desde 2014. Da interface à regra de negócio." />
 </p>
 
 <p align="center">
-  <a href="https://rafaelazzolini.com.br">Portfólio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/rafaelbazzolini">LinkedIn</a>
+  <a href="https://rafaelazzolini.com.br"><img src="https://img.shields.io/badge/VER_PORTF%C3%93LIO-64e8d1?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0d1117" alt="Ver portfólio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rafaelbazzolini"><img src="https://img.shields.io/badge/VAMOS_CONVERSAR-7da9ff?style=for-the-badge" alt="Vamos conversar no LinkedIn" /></a>
 </p>
 
-## Sobre mim
+<br />
 
-Trabalho com desenvolvimento e evolução de aplicações web, com experiência em ERPs, sistemas judiciais, financeiros e plataformas de gestão. Minha atuação envolve novas funcionalidades, manutenção de sistemas existentes, correção de bugs e integração entre serviços.
+### Código que conecta interface, dados e negócio.
 
-- **Back-end:** PHP, orientação a objetos, MVC e APIs REST.
-- **Front-end:** JavaScript, jQuery, HTML, CSS e Bootstrap.
-- **Banco de dados:** MySQL, PostgreSQL e SQL.
-- **Ambientes e entrega:** Docker, Linux, Git e publicação de aplicações.
+Sou **Rafael Bueno Azzolini**, desenvolvedor com atuação desde **2014**. Trabalho na criação e evolução de aplicações web, com experiência em **ERPs, sistemas judiciais, financeiros e plataformas de gestão**.
 
-## Tecnologias
+Minha atuação vai das interfaces e interações no front-end às regras de negócio, bancos de dados e integrações no back-end.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,jquery,html,css,bootstrap,mysql,postgres&perline=8" height="40" alt="PHP, JavaScript, jQuery, HTML, CSS, Bootstrap, MySQL e PostgreSQL" />
+<br />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Interfaces</h3>
+      <p>Desenvolvimento de interfaces web, painéis administrativos e interações com JavaScript, jQuery e AJAX.</p>
+      <p><strong>HTML · CSS · JavaScript · Bootstrap</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / Sistemas</h3>
+      <p>Novas funcionalidades, evolução de sistemas existentes, APIs REST e integração com bancos de dados.</p>
+      <p><strong>PHP · POO · MVC · SQL</strong></p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### Minha caixa de ferramentas
+
+**Desenvolvimento**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,jquery,html,css,bootstrap,react&amp;perline=7" height="40" alt="PHP, JavaScript, jQuery, HTML, CSS, Bootstrap e React" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,vscode,react&perline=5" height="40" alt="Docker, Linux, Git, Visual Studio Code e React" />
+
+**Dados e ambiente**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,git&amp;perline=5" height="40" alt="MySQL, PostgreSQL, Docker, Linux e Git" />
 </p>
 
-## Em evolução
+<br />
 
-Continuo ampliando meus conhecimentos em **Laravel**, **arquitetura de aplicações**, **desenvolvimento SaaS** e **inteligência artificial aplicada ao desenvolvimento de software**.
+### Próximos capítulos
 
-Conheça minha experiência e os projetos apresentados no [meu portfólio](https://rafaelazzolini.com.br).
+Aprofundando conhecimentos em **Laravel**, **arquitetura SaaS** e **inteligência artificial aplicada ao desenvolvimento**.
+
+→ [Conheça minha experiência e os projetos no portfólio](https://rafaelazzolini.com.br)
+
+---
 
 <details>
-  <summary>Uma pausa para a cobrinha 🐍</summary>
+  <summary>Fora do editor, a cobrinha continua trabalhando 🐍</summary>
   <br />
-  <img src="https://raw.githubusercontent.com/rafaelbazzolini/rafaelbazzolini/output/snake.svg" width="700" alt="Animação de uma cobrinha percorrendo o gráfico de contribuições" />
+  <img src="https://raw.githubusercontent.com/rafaelbazzolini/rafaelbazzolini/output/snake.svg" width="700" alt="Animação da cobrinha no gráfico de contribuições" />
 </details>
-
