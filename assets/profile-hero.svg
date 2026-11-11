@@ -15,8 +15,9 @@
 <text x="58" y="188" fill="#86afff" font-size="23">Desenvolvedor PHP / Full Stack</text>
 <text x="58" y="251" fill="#e0e7f3" font-size="25">Da interface à regra de negócio.</text>
 <text x="58" y="285" fill="#98abc5" font-size="19">Sistemas web, integrações e experiências digitais.</text>
-<rect x="58" y="329" width="255" height="38" rx="19" fill="#153338" stroke="#26534f"/>
-<text x="79" y="354" fill="#8be8d7" font-size="14" font-family="monospace">PHP · JavaScript · SQL</text>
+<rect x="58" y="316" width="616" height="72" rx="16" fill="#153338" stroke="#26534f"/>
+<text x="79" y="344" fill="#8be8d7" font-size="16" font-family="monospace">PHP • JavaScript • MySQL • SQL • APIs REST</text>
+<text x="79" y="371" fill="#8be8d7" font-size="16" font-family="monospace">Docker • Git • Laravel • Vue.js • React.js</text>
 </g>
 <g transform="translate(738 81)">
 <rect width="405" height="258" rx="15" fill="#0d1523" stroke="#34445d"/>
