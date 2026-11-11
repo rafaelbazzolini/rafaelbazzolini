@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Rafael Azzolini — PHP e Full Stack</title><desc id="desc">Desenvolvimento desde 2014. Interfaces, sistemas e integrações.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#0b101b"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#64e8d1"/><stop offset="1" stop-color="#7da9ff"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8398bc" stroke-opacity=".07"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="418" rx="24" fill="url(#bg)" stroke="#27364c"/>
+<rect x="1" y="1" width="1198" height="418" rx="24" fill="url(#grid)"/>
+<path d="M48 1H1152" stroke="url(#accent)" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<circle cx="61" cy="61" r="5" fill="#64e8d1"/>
+<text x="78" y="66" fill="#aabbd3" font-family="monospace" font-size="15" letter-spacing="2">DESENVOLVENDO DESDE 2014</text>
+<text x="56" y="144" fill="#f3f7ff" font-size="55" font-weight="700" letter-spacing="-2">Rafael Azzolini<tspan fill="#64e8d1">.</tspan></text>
+<text x="58" y="188" fill="#86afff" font-size="23">Desenvolvedor PHP / Full Stack</text>
+<text x="58" y="251" fill="#e0e7f3" font-size="25">Da interface à regra de negócio.</text>
+<text x="58" y="285" fill="#98abc5" font-size="19">Sistemas web, integrações e experiências digitais.</text>
+<rect x="58" y="329" width="255" height="38" rx="19" fill="#153338" stroke="#26534f"/>
+<text x="79" y="354" fill="#8be8d7" font-size="14" font-family="monospace">PHP · JavaScript · SQL</text>
+</g>
+<g transform="translate(738 81)">
+<rect width="405" height="258" rx="15" fill="#0d1523" stroke="#34445d"/>
+<path d="M0 44H405" stroke="#28364d"/>
+<circle cx="23" cy="23" r="5" fill="#fb7185"/><circle cx="43" cy="23" r="5" fill="#fbbf24"/><circle cx="63" cy="23" r="5" fill="#64e8d1"/>
+<text x="94" y="28" fill="#8ca0bd" font-family="monospace" font-size="12">interface → aplicação</text>
+<rect x="24" y="67" width="76" height="166" rx="7" fill="#152136"/>
+<rect x="37" y="82" width="49" height="5" rx="2" fill="#64e8d1"/>
+<path d="M37 108H76M37 128H68M37 148H79M37 168H65" stroke="#405373" stroke-width="4" stroke-linecap="round"/>
+<rect x="119" y="67" width="260" height="38" rx="7" fill="#17263c"/>
+<rect x="134" y="80" width="110" height="5" rx="2" fill="#7da9ff"/><rect x="134" y="91" width="67" height="3" rx="1" fill="#405373"/>
+<rect x="119" y="119" width="122" height="54" rx="7" fill="#153338"/><rect x="255" y="119" width="124" height="54" rx="7" fill="#202c48"/>
+<path d="M134 151L151 144L166 147L184 131L205 138L225 129" stroke="#64e8d1" stroke-width="2" fill="none"/>
+<path d="M270 153V142M285 153V136M300 153V144M315 153V132M330 153V137M345 153V128M360 153V132" stroke="#86afff" stroke-width="6"/>
+<rect x="119" y="187" width="260" height="46" rx="7" fill="#152136"/>
+<text x="134" y="214" font-family="monospace" font-size="13" fill="#a7bad4">&lt;interface /&gt; + { lógica }</text>
+</g>
+</svg>
